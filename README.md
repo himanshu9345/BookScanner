@@ -13,5 +13,3 @@ https://drive.google.com/file/d/11RE-7op00MhiEU6qtRWF5Jw1z0oXxTRV/view?usp=shari
 2. Download the project in import in android studio 
 
 I have test this app on Samssung Note 9 (SDK 28)
-
-
