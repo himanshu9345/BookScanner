@@ -3,8 +3,8 @@
 
 -This application allows user inventory his books.                                                                                          
 -The user will scan barcode from the book and then type in the
-information about that book, such as title, author, number of pages, and whether or not he/she has read it.
--I have used Google Books Api to get the Books from based on ISBN number.
+information about that book, such as title, author, number of pages, and whether or not he/she has read it.                                
+-I have used Google Books Api to get the Books from based on ISBN number.                                                                   
 -I have used SQLite Databse to store user added book information.
 
 How to run?.
